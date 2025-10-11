@@ -1,9 +1,9 @@
 {
   "name": "discord-autodelete-bot",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "discord_autodelete.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node discord_autodelete.js"
   },
   "dependencies": {
     "discord.js": "^14.14.1"
